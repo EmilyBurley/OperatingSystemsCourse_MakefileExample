@@ -1,1 +1,2 @@
-# OperatingSystemsCourse_MakefileExample
+# Operating Systems Course  
+## Makefile Example
