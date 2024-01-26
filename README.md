@@ -1,16 +1,16 @@
 # Operating Systems Course  
 ## Makefile Example  
 
-### Explanation given by the professor:
+### Explanation given by the professor:  
 
-Instead of running
+Instead of running  
 
-> gcc –Wall –c main.c
-> gcc -Wall -c f1.c
-> gcc -Wall -o test main.o f1.o
+> gcc –Wall –c main.c  
+> > gcc -Wall -c f1.c  
+> > > gcc -Wall -o test main.o f1.o  
 
-you could run
+you could run  
 
-> make
+> make  
 
-to compile and link in generating the executable file "test".
+to compile and link in generating the executable file "test".  
